@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Logs and outputs ---
+*.log
+run_log.csv
+
+# --- Environment variables ---
+.env
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- FAISS index and model artifacts ---
+faiss_index/
+*.pkl
+
+# --- Temporary files ---
+*.tmp
+*.swp
+*.bak
+
+# --- Local scripts or data not to share ---
+*.local
+*.pyc
+*.ipynb
+*.csv

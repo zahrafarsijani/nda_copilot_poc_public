@@ -1,0 +1,22 @@
+[
+  {
+    "file": "Client NDA - 1.docx",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "risk_accuracy": 0.0,
+    "predicted_issues": 7,
+    "golden_issues": 12,
+    "runtime_sec": 9.03
+  },
+  {
+    "file": "Client NDA - 2.docx",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "risk_accuracy": 0.0,
+    "predicted_issues": 5,
+    "golden_issues": 12,
+    "runtime_sec": 6.92
+  }
+]

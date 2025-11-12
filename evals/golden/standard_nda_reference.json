@@ -1,0 +1,126 @@
+{
+    "document_title": "Mutual Nondisclosure Agreement",
+    "acceptability_score": 98,
+    "issues": [
+      {
+        "section": "1.2 Confidential Information",
+        "type": "CI Scope",
+        "risk": "Low",
+        "finding": "CI definition includes 6-month lookback; aligns with Playbook.",
+        "evidence_snippet": "on or after the Effective Date or within six (6) months prior",
+        "playbook_ref": "CI Scope – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "2.2 Care Standard",
+        "type": "Efforts",
+        "risk": "Low",
+        "finding": "Standard is 'no less than reasonable care'; matches Playbook.",
+        "evidence_snippet": "no less than reasonable care",
+        "playbook_ref": "Efforts – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "2.3 Representatives",
+        "type": "CI Scope",
+        "risk": "Low",
+        "finding": "Consent required for sharing with financing sources/LPs; aligns with Playbook.",
+        "evidence_snippet": "prior written consent, not to be unreasonably withheld…",
+        "playbook_ref": "Representatives & Financing Sources – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "3.2 Notice",
+        "type": "Notices",
+        "risk": "Low",
+        "finding": "Email notice permitted; aligns with Playbook.",
+        "evidence_snippet": "prior email notice",
+        "playbook_ref": "Notices – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "5 Automated Tools / AI",
+        "type": "AI",
+        "risk": "Low",
+        "finding": "Enterprise, no-train AI permitted with controls; matches Playbook.",
+        "evidence_snippet": "enterprise, no-train automated tools…access controls, encryption, and logging",
+        "playbook_ref": "AI – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "6 Return/Destruction; Retention",
+        "type": "Disposal",
+        "risk": "Low",
+        "finding": "Disposal method aligns, but confirmation not specified.",
+        "evidence_snippet": "promptly return or destroy CI…may retain in backups/archives…",
+        "playbook_ref": "Disposal Confirmation – Preferred",
+        "recommendation": "Add: 'Recipient will confirm disposal by email upon Disclosing Party’s request.'",
+        "status": "MoveToPreferred"
+      },
+      {
+        "section": "7 Non-Solicitation",
+        "type": "Nonsolicit",
+        "risk": "Low",
+        "finding": "18 months, limited to execs/seniors introduced, with carve-outs; matches Playbook.",
+        "evidence_snippet": "18 months…executive officers or senior managers introduced…carve-outs…",
+        "playbook_ref": "Non-Solicitation – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "8.1 Term",
+        "type": "Term",
+        "risk": "Low",
+        "finding": "3-year term, trade secret tail included as fallback.",
+        "evidence_snippet": "three (3) years…may continue so long as…trade secret",
+        "playbook_ref": "Term – Preferred/Fallback",
+        "recommendation": "No change needed.",
+        "status": "AcceptFallback"
+      },
+      {
+        "section": "8.3 Fees",
+        "type": "Indemnity",
+        "risk": "Low",
+        "finding": "Prevailing party entitled to reasonable attorneys’ fees; matches Playbook.",
+        "evidence_snippet": "prevailing party…reasonable attorneys’ fees…final, non-appealable order",
+        "playbook_ref": "Legal Expenses – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "8.4 No Warranties",
+        "type": "CI Reliability",
+        "risk": "Low",
+        "finding": "CI provided as-is, no reps/warranties; matches Playbook.",
+        "evidence_snippet": "CI is provided as-is, without representations or warranties",
+        "playbook_ref": "CI Reliability – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "9.1 Governing Law; Forum",
+        "type": "Forum",
+        "risk": "Low",
+        "finding": "NY law, NY courts, jury waiver; matches Playbook.",
+        "evidence_snippet": "laws of New York…exclusive jurisdiction…waive jury trial",
+        "playbook_ref": "Law & Forum – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      },
+      {
+        "section": "9.2 Notices",
+        "type": "Notices",
+        "risk": "Low",
+        "finding": "Email and courier permitted; aligns with Playbook.",
+        "evidence_snippet": "delivered by email…or by…overnight courier",
+        "playbook_ref": "Notices – Preferred",
+        "recommendation": "No change needed.",
+        "status": "PreferredOK"
+      }
+    ]
+  }

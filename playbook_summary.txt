@@ -1,0 +1,13 @@
+Preferred:
+- Timing/Efforts: use “promptly” and “reasonable care”.
+- Notices: email sufficient; avoid courier-only.
+- CI scope: 6-month lookback + forward disclosures.
+- AI tools: allow enterprise no-train; forbid model training.
+- Disposal: return or destroy promptly; allow legal holds.
+- Indemnities: none; prevailing-party fees only.
+- Term: 3 years preferred; 2 acceptable; trade secrets while secret.
+Reject:
+- “immediately” / “best efforts”
+- standstill or exclusivity clauses
+- categorical AI prohibitions
+- indemnities for indirect/special damages
